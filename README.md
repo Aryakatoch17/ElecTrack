@@ -10,6 +10,9 @@ A user friendly Prediction Sysytem that helps to give people analysis about Publ
 npm install
 
 npm start
+##Features
+-Top 5 parties' analysis
+-Based on public opinion
 
 ## Usage
 
