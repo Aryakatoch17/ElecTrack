@@ -12,8 +12,8 @@ npm install
 npm start
 
 ## Features
--Top 5 parties' analysis
--Based on public opinion
+- Top 5 parties' analysis
+- Based on public opinion
 
 ## Usage
 
