@@ -21,3 +21,8 @@ To use ElecTrack, follow these steps:
 
 1. Click on "Run Prediction" to view the analysis.
 2. Graphical and numerical data appears.
+
+## Contributors
+- Arya Katoch
+- Arsh Verma
+- Ikshita Rajput
