@@ -4,11 +4,13 @@ A user friendly Prediction Sysytem that helps to give people analysis about Publ
 ## Installation
  Clone the repository:
  git clone https://github.com/Aryakatoch17/ElecTrack.git
- cd WeatherForecastApp
+ 
+ cd ElecTrack
 
 npm install
 
 npm start
+
 ## Usage
 
 To use ElecTrack, follow these steps:
