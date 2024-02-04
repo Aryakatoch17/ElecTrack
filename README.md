@@ -5,11 +5,11 @@ A user friendly Prediction Sysytem that helps to give people analysis about Publ
  Clone the repository:
  git clone https://github.com/Aryakatoch17/ElecTrack.git
  
- cd ElecTrack
+```cd ElecTrack```
 
-npm install
+```npm install```
 
-npm start
+```npm start```
 
 ## Features
 - Top 5 parties' analysis
